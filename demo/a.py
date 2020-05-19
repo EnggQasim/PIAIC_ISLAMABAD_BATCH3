@@ -7,3 +7,6 @@ def b():
 def c():
   # Something
   return 2
+
+print(4+4*3//3+10/5)
+
